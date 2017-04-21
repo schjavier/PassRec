@@ -3,3 +3,4 @@
 __pychache__/
 *.pyo
 *.pyc
+*.db
